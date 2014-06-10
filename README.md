@@ -5,6 +5,7 @@ SwiftCheatSheet
 <html>
 <body>
 <h1>Cheat Sheet for the Swift Programming Language.</h1>
+<h3>Fill Free To Add More To this!!</h3>
 <img src="http://cdni.wired.co.uk/620x413/a_c/apple-swift.jpg" alt="some_text">
 <h3>Arrays</h3>
 <code>
